@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/6e91a3d0-8b4e-4dde-9d9e-1c3a04e98a5d/thumbnail" >
+</p>
 
 <!--
 **Jajankenguu/jajankenguu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
